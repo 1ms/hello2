@@ -1,9 +1,10 @@
 # hello2
 Practicing github
-Practicing commit to the master
+line 3
+line 4
 
-Practicing commit to the master
 line 6
-line 7
 
-line 9
+line 8
+
+line 10
